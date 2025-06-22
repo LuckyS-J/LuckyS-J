@@ -14,8 +14,8 @@
 Python | Django | Flask | SQL | PostgreSQL | Git | Linux | Docker (in progress)
 
 ## 📌 Projects  
-- 🔹 [SkillTrack](https://github.com/LuckyS-J/SkillTrack) — Learning tracker  
-- 🔹 [SpendWise](https://github.com/LuckyS-J/SpendWise) — Expense manager
+- [SkillTrack](https://github.com/LuckyS-J/SkillTrack) — Learning tracker  
+- [SpendWiser](https://github.com/LuckyS-J/SpendWiser) — Expense manager
 
 ## 📚 Certifications  
 - 🐍 [Python: 100 Days of Code](https://www.udemy.com/course/100-days-of-code/)  
