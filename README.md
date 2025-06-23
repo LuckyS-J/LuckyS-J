@@ -6,8 +6,6 @@
 🛠️ Learning Docker and Kubernetes  
 🎯 Planning a Master’s in Data Science  
 
-🌐 [Portfolio](https://LuckyS-J.github.io/portfolio/)  
-
 ---
 
 ## 🛠️ Tech Stack  
@@ -17,7 +15,7 @@ Python | Django | Flask | SQL | PostgreSQL | Git | Linux | Docker (in progress)
 - [SkillTrack](https://github.com/LuckyS-J/SkillTrack) — Learning tracker  
 - [SpendWiser](https://github.com/LuckyS-J/SpendWiser) — Expense manager
 
-## 📚 Certifications  
+## 📚 Courses and Certifications
 - 🐍 [Python: 100 Days of Code](https://www.udemy.com/course/100-days-of-code/)  
 - 🌐 [Django Practical Guide](https://www.udemy.com/course/python-django-the-practical-guide/)  
 - 🗃️ [SQL & PostgreSQL](https://www.udemy.com/course/sql-and-postgresql/)  
@@ -26,5 +24,3 @@ Python | Django | Flask | SQL | PostgreSQL | Git | Linux | Docker (in progress)
 - 🛠️ SolidWorks (CSWA)
 
 ---
-
-📫 jedrzych@student.agh.edu.pl
